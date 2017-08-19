@@ -8,7 +8,7 @@ I'm currently developing a REST API that is going to serve content to a mobile a
 The technology I'm using to do so is ASP.NET Web API for developing, TeamCity and Octopus Deploy for continuous integration and Bitbucket and JIRA for control version and project tracking.
 
 ### Technical skills
-Other technical skills that I've acquired are:
+Technical skills that I've acquired are:
 * Object-oriented languages, such as Java, Python and a little bit of C++.
 * System administration, specially on Linux, using tools like Puppet, KVM, Docker and Windows Server basic administration (IIS). I have used AWS and Digital Ocean droplets for cloud computing.
 * Scripting, with Bash and Python.
