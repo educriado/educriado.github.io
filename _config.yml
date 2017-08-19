@@ -1,3 +1,5 @@
 title: Eduardo Criado
 description: Junior dev, interested in web applications and DevOps.
 theme: jekyll-theme-minimal
+site.linkedin.is_user_page: true
+site.linkedin.owner_url: https://www.linkedin.com/in/educriado/
