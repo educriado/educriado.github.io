@@ -2,4 +2,5 @@
 ---
 
 @import "{{ site.theme }}";
+// Overwrite the effect of making links in bold text, it changes the layout of the whole paragraph.
 a:hover, a:focus { color: #069; font-weight: normal; }
