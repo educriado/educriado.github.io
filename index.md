@@ -7,4 +7,4 @@ At the same time I started working part-time at a **electronic music focused sta
 I'm currently developing a **REST API** that is going to serve content to a mobile app that we are planning to launch soon! 😊
 The technology I'm using to do so is **ASP.NET Web API** for developing, TeamCity and Octopus Deploy for **continuous integration** and Bitbucket and JIRA for **control version** and **project tracking**.
 
-You can also **download my [CV](https://educriado.github.io/files/resume.pdf)**.
+You can also **download my [CV](https://docs.google.com/document/export?format=pdf&id=11GDk9g8se60N1ziHpcAQrpElh_ELF6QIJbBqwVecWeU)**.
